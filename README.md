@@ -1,7 +1,7 @@
 # RFID Cloner
 A simple RFID cloner built using a Raspberry Pi Zero W and the RC522 module
 
-###**Design decisions:**
+### Design decisions:
 
 **Raspberry Pi Zero W:**
  - Initial debate between Raspberry Pi and Arduino, went with Raspberry Pi as I have prior experience with them
