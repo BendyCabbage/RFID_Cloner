@@ -36,3 +36,7 @@ chosen as this minimises the risk of that happening.
 
 Setup via SSH: https://www.youtube.com/watch?v=63yw7b0NuWc
 1. Install the Raspberry Pi OS on the micro SD card using the official raspberry pi installer.
+
+
+**References:**
+- https://pimylifeup.com/raspberry-pi-rfid-rc522/#:~:text=Wiring%20your%20RFID%20RC522%20to,SDA%20connects%20to%20Pin%2024
