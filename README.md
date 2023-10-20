@@ -40,3 +40,4 @@ Setup via SSH: https://www.youtube.com/watch?v=63yw7b0NuWc
 
 **References:**
 - https://pimylifeup.com/raspberry-pi-rfid-rc522/#:~:text=Wiring%20your%20RFID%20RC522%20to,SDA%20connects%20to%20Pin%2024
+- https://github.com/mxgxw/MFRC522-python
