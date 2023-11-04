@@ -21,6 +21,14 @@ definitely doable), I decided to use a prebuilt component to save the time and h
 Additionally if the Raspberry Pi loses power unexpectedly it can corrupt the operating system. This is why a UPS was
 chosen as this minimises the risk of that happening. 
 
+**Parts list:**
+- [Raspberry Pi Zero W](https://core-electronics.com.au/raspberry-pi-zero-wh.html)
+- Power source (initially the official power supply and then I switched to a [UPS HAT](https://www.dfrobot.com/product-1932.html) with a [battery](https://www.jaycar.com.au/14500-rechargeable-li-ion-battery-800mah-3-7v-solder-tag/p/SB2301) later)
+- [RC522 Module](https://www.amazon.com.au/DIGISHUO-MFRC-522-RC522-Inductive-Compatible/dp/B0BK3DGQQR/)
+- SD/Micro SD card reader
+- Micro SD card
+- [Wires](https://core-electronics.com.au/solderless-breadboard-jumper-cable-wires-female-female-40-pieces.html)
+
 **Things required:**
 - Raspberry Pi Zero W
 - Raspberry Pi power source (needs to output 5-5.5V and ~2.5A). Initially I used the official Raspberry Pi power supply,
