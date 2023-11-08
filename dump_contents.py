@@ -63,14 +63,7 @@ def read_card():
         print(f"Tag Type: {tag_type}")
 
         reader.MFRC522_SelectTag(uid)
-        '''
-        for i in range(64):
-            status = reader.MFRC522_Auth(reader.PICC_AUTHENT1A, i, key, uid)
-            if status != reader.MI_OK:
-                print(f"Cannot authenticate block {i}", file=sys.stderr)
-                return None
-            print(reader.MFRC522_Read(i))
-        '''
+        
         sector_data = []
         for sector_num in range(16):
             sector_data.append(read_sector(sector_num, key, uid))
